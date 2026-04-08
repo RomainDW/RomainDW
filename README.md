@@ -4,9 +4,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainDW&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomainDW&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainDW&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomainDW&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomainDW&theme=github_dark&utcOffset=2)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomainDW&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomainDW&theme=github_dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomainDW&theme=github-dark-blue&hide_border=true)
 
